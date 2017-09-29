@@ -1,0 +1,30 @@
+<?php
+	session_start();
+	unset($sUser);
+	unset($sConeun);
+	unset($sConedb);
+	unset($sCarrera);
+	unset($sTipousu);
+	unset($sDocumen);
+	unset($sSexo);
+	unset($sMes);
+	unset($sEcivil);
+	unset($sPeriodo);
+	unset($sArea);
+	unset($sTipcur);
+	unset($sDia);
+	unset($sModnot);
+	unset($sNivel);
+	unset($sSemestre);
+	unset($sGrupo);
+	unset($sModmat);
+	unset($sTurno);
+	unset($sEspecial);
+	unset($sHorario);
+	unset($sTutor);
+	unset($sCuramat);
+		
+	session_destroy();
+
+	header("Location:../.");
+?>

@@ -1,0 +1,33 @@
+#bodylogin {
+	width: 300px;
+	border: 2px solid #9BAE5A;
+	height: 190px;
+	background-color: #FFFFFF;
+	margin-top: 5px;
+}
+.collogin {
+	float: left;
+	width: 300px;
+	background-color: #FFFFFF;
+}
+#rLogin {
+	padding-left: 20px;
+	font-size: 12px;
+	background-image: url(../images/ilogin.png);
+	background-repeat: no-repeat;
+	background-position: 1px;
+}
+#rPasswd {
+	padding-left: 20px;
+	font-size: 12px;
+	background-image: url(../images/ipasswd.png);
+	background-repeat: no-repeat;
+	background-position: 1px;
+}
+#rNum_doc {
+	padding-left: 20px;
+	font-size: 12px;
+	background-image: url(../images/ipasswd.png);
+	background-repeat: no-repeat;
+	background-position: 1px;
+}

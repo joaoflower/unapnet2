@@ -1,0 +1,131 @@
+body {
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	background-color: #666666;
+	margin: 0px;
+}
+form {
+	margin: 0px;
+	padding: 0px;
+}
+textarea {
+	font-family: Arial;
+	font-size: 11px;
+	border: 1px outset;
+	padding-left: 2px;
+	color: #232813;
+	background-color: #FCFDF7;
+}
+textarea:focus{
+	border: 1px solid #000000;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+textarea:hover{
+	border: 1px solid #000000;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+textarea:disabled{
+	color: #232813;
+	background-color: #E8E8FF;
+}
+select {
+	font-family: Arial;
+	font-size: 11px;
+	border: 1px outset;
+	padding-left: 2px;
+	color: #232813;
+	background-color: #FCFDF7;
+}
+select:hover {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.check {
+	margin: 0px;
+	padding: 0px;
+	background:none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.check:hover {
+	margin: 0px;
+	padding: 0px;
+	background:none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+input{
+	font-family: Arial;
+	font-size: 11px;
+	border: 1px outset;
+	padding-left: 2px;
+	color: #232813;
+	background-color: #FCFDF7;
+}
+input:focus{
+	border: 1px solid #000000;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+input:hover{
+	border: 1px solid #000000;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+input:disabled{
+	color: #232813;
+	background-color: #E8E8FF;
+}
+A{
+	text-decoration: none;
+}
+A:hover{
+	text-decoration: none;
+}
+A IMG {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.radio {
+	margin: 0px;
+	padding: 0px;
+	background:none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.radio:hover {
+	margin: 0px;
+	padding: 0px;
+	background:none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}

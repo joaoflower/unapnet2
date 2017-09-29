@@ -1,0 +1,4 @@
+# Habilitar register_globals para este directorio y sus subdirectorios
+# Alerta: el cóo seráenos seguro
+
+php_flag register_globals on

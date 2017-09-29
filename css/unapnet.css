@@ -1,0 +1,118 @@
+.tsmallbn {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.tsmallbb {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tnormalbn {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.tnormalbb {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tlargebn {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.tlargebb {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.txlargebn {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.txlargebb {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tsmallwn {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.tsmallwb {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tnormalwn {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.tnormalwb {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tlargewn {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.tlargewb {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.cabecera {
+	BACKGROUND: #6699cc; COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.celdainpar {
+	BACKGROUND: #ffffff; COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.celdapar {
+	BACKGROUND: #dbeaf5; COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.tcabecerabb {
+	COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 18px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ttitulobb {
+	COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tmensajebn {
+	COLOR: #ff0000; FONT-FAMILY: Arial; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.timporbb {
+	COLOR: #ff0000; FONT-FAMILY: Arial; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.otexto {
+	BORDER-BOTTOM: 1px outset; BORDER-LEFT: 1px outset; BORDER-RIGHT: 1px outset; BORDER-TOP: 1px outset; COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.oboton {
+	BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px outset; BORDER-LEFT: 1px outset; BORDER-RIGHT: 1px outset; BORDER-TOP: 1px outset; COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+.ocombo {
+	BORDER-BOTTOM: 1px outset; BORDER-LEFT: 1px outset; BORDER-RIGHT: 1px outset; BORDER-TOP: 1px outset; COLOR: #04134d; FONT-FAMILY: Arial; FONT-SIZE: 11px; LINE-HEIGHT: 1px; TEXT-DECORATION: none
+}
+.obotona {
+	BACKGROUND-COLOR: #f0f0f0; BORDER-BOTTOM: #04134d 1px solid; BORDER-LEFT: #04134d 1px solid; BORDER-RIGHT: #04134d 1px solid; BORDER-TOP: #04134d 1px solid; CURSOR: hand; FONT-FAMILY: Arial; FONT-SIZE: 11px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.obotoni {
+	CURSOR: hand; FONT-FAMILY: Arial; FONT-SIZE: 11px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px
+}
+.ofondo {
+	BACKGROUND-IMAGE: url(http://localhost/siaa2net/images/bgcolor.gif)
+}
+A {
+	COLOR: #04134d;
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}
+A:hover {
+	color: #FFFFFF;
+	background-color: #13438A;
+	font-weight: bold;
+}
+
+.notapro {
+	COLOR: #0000FF;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11px;
+	TEXT-DECORATION: none;
+}
+.notades {
+	COLOR: #FF0000;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11px;
+	TEXT-DECORATION: none;
+}
+.notaprop {
+	COLOR: #0000FF;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11px;
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}
+.notadesp {
+	COLOR: #FF0000;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11px;
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}

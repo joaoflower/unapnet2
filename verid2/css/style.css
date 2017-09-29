@@ -1,0 +1,216 @@
+.tdultimo{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D3DF91;
+}
+.tdnotaapr{
+	font-weight: bold;
+	color: #0000FF;
+	font-size: 12px;
+	text-align: right;
+}
+.tdnotaaprultimo{
+	font-weight: bold;
+	color: #0000FF;
+	font-size: 12px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D3DF91;
+	text-align: right;
+}
+.tdnotades{
+	font-weight: bold;
+	color: #FF0000;
+	font-size: 12px;
+	text-align: right;
+}
+.tdnotadesultimo{
+	font-weight: bold;
+	color: #FF0000;
+	font-size: 12px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D3DF91;
+	text-align: right;
+}
+.trinpar {
+	background-color: #FFFFFF;
+}
+.trpar {
+	background-color: #F1F5DC;
+}
+.trhover {
+	background-color: #9BAE5A;
+	color: #F1F5DC;
+}
+.trselect {
+	background-color: #F3FD80;
+}
+
+
+
+.linkboton {
+	text-decoration: none;
+}
+.linkboton:hover{
+	text-decoration: none;
+	border: 1px solid #000000;
+}
+.linkboton IMG {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.wordcen {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: center;
+}
+.wordcenb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: center;
+	font-weight: bold;
+}
+.wordjus {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: justify;
+}
+.wordder {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: right;
+}
+.wordderb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: right;
+	font-weight: bold;
+}
+.wordizq {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+}
+.wordizqb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+	font-weight: bold;
+}
+.wordi {
+	font-family: Arial;
+	font-size: 12px;
+	color: #FF0000;
+}
+.notapro {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0000FF;
+}
+.notades {
+
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.linktext {
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	color: #282D15;
+	font-weight: bold;
+}
+.linktext:hover{
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	color: #F1F5DC;
+	font-weight: bold;
+	background-color: #9BAE5A;
+}
+.linkicon {
+	text-decoration: none;
+	background:none;
+}
+.linkicon:hover{
+	text-decoration: none;
+	background:none;
+}
+
+.linkicon IMG {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.tdcampo {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+	font-weight: bold;
+	border: 1px solid #BDD37B;
+	background-color: #FFFFFF;
+}
+.tdcamposb {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align: left;
+	border: 1px solid #BDD37B;
+	background-color: #FFFFFF;
+}
+.tdcampocenter {
+	font-family: Arial;
+	font-size: 11px;
+	color: #282D15;
+	text-align:center;
+	font-weight: bold;
+	border: 1px solid #BDD37B;
+	background-color: #FFFFFF;
+}
+
+.enlaceb {
+	text-decoration: none;
+	background:none;
+}
+.enlaceb:hover{
+	text-decoration: none;
+	background:none;
+}
+
+
+.textnotaap {
+	font-family: Arial;
+	font-size: 12px;
+	border: 1px outset;
+	font-weight: bold;
+	color: #0000FF;
+	height: 14px;
+	padding: 0px;
+	margin: 0px;
+}
+.textnotade {
+	font-family: Arial;
+	font-size: 12px;
+	border: 1px outset;
+	font-weight: bold;
+	color: #FF0000;
+	height: 14px;
+	padding: 0px;
+	margin: 0px;
+}
